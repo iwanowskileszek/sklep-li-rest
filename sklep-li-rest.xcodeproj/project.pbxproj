@@ -13,6 +13,7 @@
 		0C2C3D5125E6EDAF00A776E1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C2C3D5025E6EDAF00A776E1 /* Preview Assets.xcassets */; };
 		0C2C3D5325E6EDAF00A776E1 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2C3D5225E6EDAF00A776E1 /* Persistence.swift */; };
 		0C2C3D5625E6EDAF00A776E1 /* sklep_li_rest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0C2C3D5425E6EDAF00A776E1 /* sklep_li_rest.xcdatamodeld */; };
+		0C2C3D5F25E6F67500A776E1 /* ProduktView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2C3D5E25E6F67500A776E1 /* ProduktView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0C2C3D5225E6EDAF00A776E1 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		0C2C3D5525E6EDAF00A776E1 /* sklep_li_rest.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = sklep_li_rest.xcdatamodel; sourceTree = "<group>"; };
 		0C2C3D5725E6EDAF00A776E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C2C3D5E25E6F67500A776E1 /* ProduktView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProduktView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0C2C3D5725E6EDAF00A776E1 /* Info.plist */,
 				0C2C3D5425E6EDAF00A776E1 /* sklep_li_rest.xcdatamodeld */,
 				0C2C3D4F25E6EDAF00A776E1 /* Preview Content */,
+				0C2C3D5E25E6F67500A776E1 /* ProduktView.swift */,
 			);
 			path = "sklep-li-rest";
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C2C3D5325E6EDAF00A776E1 /* Persistence.swift in Sources */,
+				0C2C3D5F25E6F67500A776E1 /* ProduktView.swift in Sources */,
 				0C2C3D4C25E6EDA800A776E1 /* ContentView.swift in Sources */,
 				0C2C3D5625E6EDAF00A776E1 /* sklep_li_rest.xcdatamodeld in Sources */,
 				0C2C3D4A25E6EDA800A776E1 /* sklep_li_restApp.swift in Sources */,
